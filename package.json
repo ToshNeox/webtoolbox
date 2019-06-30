@@ -1,0 +1,19 @@
+{
+  "name": "webtoolbox",
+  "version": "1.0.0",
+  "description": "A collection of useful tools and resources for developers",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ToshNeox/webtoolbox.git"
+  },
+  "author": "ToshNeox",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/ToshNeox/webtoolbox/issues"
+  },
+  "homepage": "https://github.com/ToshNeox/webtoolbox#readme"
+}
