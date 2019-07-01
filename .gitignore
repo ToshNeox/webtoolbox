@@ -1,1 +1,7 @@
 node_modules
+
+# Parcel build cache
+.cache
+
+# Parcel build folder (to remove when ready to push to gh-pages
+dist
