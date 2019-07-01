@@ -15,5 +15,16 @@
   "bugs": {
     "url": "https://github.com/ToshNeox/webtoolbox/issues"
   },
-  "homepage": "https://github.com/ToshNeox/webtoolbox#readme"
+  "homepage": "https://github.com/ToshNeox/webtoolbox#readme",
+  "dependencies": {
+    "bulma": "^0.7.5",
+    "vue": "^2.6.10",
+    "vue-hot-reload-api": "^2.3.3"
+  },
+  "devDependencies": {
+    "@vue/component-compiler-utils": "^3.0.0",
+    "sass": "^1.22.1",
+    "typescript": "^3.5.2",
+    "vue-template-compiler": "^2.6.10"
+  }
 }
