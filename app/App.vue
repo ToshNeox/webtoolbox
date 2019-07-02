@@ -29,7 +29,7 @@
 
     import filters from './filters.vue';
     import tool from './tool.vue';
-    import tools from './tools.json';
+    import toolData from './tools.json';
 
     export default Vue.extend({
         components: {
@@ -39,7 +39,7 @@
         data() {
             return {
                 filters: [],
-                tools: tools
+                tools: toolData.tools
             };
         },
         computed: {
