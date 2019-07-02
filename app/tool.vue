@@ -12,7 +12,6 @@
                 <div class="media-content">
                     <p class="title is-4"><a :href="toolData.url">{{ toolData.title }}</a></p>
                     <p class="subtitle is-6">
-                        <b>Tags:</b>
                         <div class="tags">
                             <span
                                 class="tag"
@@ -56,5 +55,9 @@
 </script>
 
 <style lang="scss" scoped>
-
+    .card {
+        .media, .tags {
+            margin-bottom: 0;
+        }
+    }
 </style>
