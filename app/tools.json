@@ -36,18 +36,6 @@
             "url": "http://xiconeditor.com"
         },
         {
-            "title": "Zbugs",
-            "image": "zbugz.png",
-            "content": [
-                "Compress and gzip your CSS and JS."
-            ],
-            "tags": [
-                "css",
-                "webPerformance"
-            ],
-            "url": "http://www.zbugs.com"
-        },
-        {
             "title": "Modular Grid",
             "image": "modulargrid.png",
             "content": [
@@ -60,17 +48,6 @@
             "url": "http://modulargrid.org"
         },
         {
-            "title": "CSSComb",
-            "image": "csscomb.png",
-            "content": [
-                "Reorder your CSS properties as you please."
-            ],
-            "tags": [
-                "css"
-            ],
-            "url": "http://csscomb.com"
-        },
-        {
             "title": "JS2Coffee",
             "image": "js2coffee.png",
             "content": [
@@ -79,7 +56,7 @@
             "tags": [
                 "javascript"
             ],
-            "url": "http://js2coffee.org"
+            "url": "http://js2.coffee/"
         },
         {
             "title": "Brand Colors",
@@ -90,7 +67,7 @@
             "tags": [
                 "colours"
             ],
-            "url": "http://galengidman.com/brandcolors"
+            "url": "https://brandcolors.net/"
         },
         {
             "title": "Noise Generator",
@@ -113,29 +90,7 @@
                 "colours",
                 "css"
             ],
-            "url": "http://www.147colors.com"
-        },
-        {
-            "title": "RequestB.in",
-            "image": "requestbin.png",
-            "content": [
-                "Get a unique URL that shows every request made to it."
-            ],
-            "tags": [
-                "misc"
-            ],
-            "url": "http://requestb.in"
-        },
-        {
-            "title": "Ipsum.me",
-            "image": "ipsumme.png",
-            "content": [
-                "An advanced placeholder text generator that fills in names and cities."
-            ],
-            "tags": [
-                "loremIpsum"
-            ],
-            "url": "http://ipsum.me"
+            "url": "http://www.colors.commutercreative.com/"
         },
         {
             "title": "UICloud",
@@ -147,7 +102,7 @@
                 "photoshop",
                 "reference"
             ],
-            "url": "http://ui-cloud.com"
+            "url": "https://ui-cloud.com/"
         },
         {
             "title": "Moqups",
@@ -158,7 +113,7 @@
             "tags": [
                 "wireframes"
             ],
-            "url": "http://moqups.com"
+            "url": "https://moqups.com/"
         },
         {
             "title": "Browserling",
@@ -169,7 +124,7 @@
             "tags": [
                 "browserTesting"
             ],
-            "url": "http://browserling.com"
+            "url": "https://www.browserling.com/"
         },
         {
             "title": "Mergely",
@@ -183,18 +138,6 @@
             "url": "http://www.mergely.com"
         },
         {
-            "title": "Jquer.in",
-            "image": "jquerin.png",
-            "content": [
-                "Like The Toolbox, but for jQuery plugins."
-            ],
-            "tags": [
-                "javascript",
-                "reference"
-            ],
-            "url": "http://jquer.in"
-        },
-        {
             "title": "CSS3 Click Chart",
             "image": "clickchart.png",
             "content": [
@@ -204,7 +147,7 @@
                 "css",
                 "reference"
             ],
-            "url": "http://css3clickchart.com"
+            "url": "https://css3clickchart.com/"
         },
         {
             "title": "IconsGuide",
@@ -226,18 +169,7 @@
             "tags": [
                 "webPerformance"
             ],
-            "url": "http://www.webpagetest.org"
-        },
-        {
-            "title": "Color Ramp Creator",
-            "image": "color-ramp.png",
-            "content": [
-                "Create color ramps for pixel art."
-            ],
-            "tags": [
-                "colours"
-            ],
-            "url": "http://www.pixelfor.me/crc"
+            "url": "https://www.webpagetest.org"
         },
         {
             "title": "TinyPNG",
@@ -249,7 +181,7 @@
                 "images",
                 "webPerformance"
             ],
-            "url": "http://tinypng.org"
+            "url": "https://tinypng.com"
         },
         {
             "title": "CDNJS",
@@ -260,7 +192,7 @@
             "tags": [
                 "javascript"
             ],
-            "url": "http://cdnjs.com"
+            "url": "https://cdnjs.com"
         },
         {
             "title": ".htaccess Redirect",
@@ -271,7 +203,7 @@
             "tags": [
                 "misc"
             ],
-            "url": "http://www.htaccessredirect.net"
+            "url": "https://www.htaccessredirect.net/"
         },
         {
             "title": "IconMonstr",
@@ -282,7 +214,7 @@
             "tags": [
                 "icons"
             ],
-            "url": "http://iconmonstr.com"
+            "url": "https://iconmonstr.com/"
         },
         {
             "title": "GradientFinder",
@@ -318,18 +250,7 @@
                 "javascript",
                 "markup"
             ],
-            "url": "http://dirtymarkup.com"
-        },
-        {
-            "title": "Hurl",
-            "image": "hurl.png",
-            "content": [
-                "Make HTTP requests with custom parameters and headers."
-            ],
-            "tags": [
-                "misc"
-            ],
-            "url": "http://hurl.it"
+            "url": "https://www.10bestdesign.com/dirtymarkup/"
         },
         {
             "title": "QRHacker",
@@ -340,7 +261,7 @@
             "tags": [
                 "misc"
             ],
-            "url": "http://www.qrhacker.com"
+            "url": "https://www.qrhacker.com/"
         },
         {
             "title": "Codepen",
@@ -353,7 +274,7 @@
                 "editors",
                 "javascript"
             ],
-            "url": "http://codepen.io"
+            "url": "https://codepen.io/"
         },
         {
             "title": "RubyFiddle",
@@ -375,7 +296,7 @@
             "tags": [
                 "css"
             ],
-            "url": "http://www.css3.me"
+            "url": "https://www.css3.me"
         },
         {
             "title": "The Responsinator",
@@ -408,7 +329,7 @@
             "tags": [
                 "typography"
             ],
-            "url": "http://www.fontsquirrel.com/fontface"
+            "url": "https://www.fontsquirrel.com/tools/webfont-generator"
         },
         {
             "title": "Piknik",
@@ -430,51 +351,18 @@
             "tags": [
                 "webPerformance"
             ],
-            "url": "http://gtmetrix.com"
+            "url": "https://gtmetrix.com/"
         },
         {
-            "title": "XML Playground",
-            "image": "xmlplayground.png",
-            "content": [
-                "Write and test XML and XSLT online."
-            ],
-            "tags": [
-                "editors"
-            ],
-            "url": "http://xmlplayground.com"
-        },
-        {
-            "title": "Kuler",
+            "title": "Adobe Color",
             "image": "kuler21.png",
             "content": [
-                "By popular demand: Adobe's well-known color picking tool."
+                "Adobe's well-known, updated colour-picking tool."
             ],
             "tags": [
                 "colours"
             ],
-            "url": "http://kuler.adobe.com"
-        },
-        {
-            "title": "Degreees",
-            "image": "degrees.png",
-            "content": [
-                "Get the weather with a sweeet UI."
-            ],
-            "tags": [
-                "misc"
-            ],
-            "url": "http://degreees.com"
-        },
-        {
-            "title": "CSSPainter",
-            "image": "csspainter.png",
-            "content": [
-                "This tool lets you combine multiple effects to create complex pure CSS objects."
-            ],
-            "tags": [
-                "misc"
-            ],
-            "url": "http://karolk.com/csspainter"
+            "url": "https://color.adobe.com/create"
         },
         {
             "title": "Testico",
@@ -488,18 +376,6 @@
             "url": "http://testico.net"
         },
         {
-            "title": "Browser Cover",
-            "image": "browsercover.png",
-            "content": [
-                "Quickly add various browser chrome frames to any image"
-            ],
-            "tags": [
-                "images",
-                "misc"
-            ],
-            "url": "http://www.browsercover.com"
-        },
-        {
             "title": "Pixabay",
             "image": "pixabay.jpg",
             "content": [
@@ -508,18 +384,18 @@
             "tags": [
                 "images"
             ],
-            "url": "http://pixabay.com"
+            "url": "https://pixabay.com/"
         },
         {
-            "title": "Type Calculator",
+            "title": "GRT Calculator",
             "image": "typography-calculator.png",
             "content": [
-                "Helps you set your type for optimum readability."
+                "Helps you set your type for optimum readability using the Golden Ratio."
             ],
             "tags": [
                 "typography"
             ],
-            "url": "http://www.pearsonified.com/typography"
+            "url": "https://grtcalculator.com/"
         },
         {
             "title": "JS Beautifier",
@@ -530,7 +406,7 @@
             "tags": [
                 "javascript"
             ],
-            "url": "http://jsbeautifier.org"
+            "url": "https://beautifier.io/"
         },
         {
             "title": "JS Bin",
@@ -542,7 +418,7 @@
                 "editors",
                 "javascript"
             ],
-            "url": "http://jsbin.com"
+            "url": "http://jsbin.com/"
         },
         {
             "title": "CSS Deck",
@@ -565,18 +441,7 @@
             "tags": [
                 "animation"
             ],
-            "url": "http://easings.net"
-        },
-        {
-            "title": "The Pixelator",
-            "image": "pixelator.png",
-            "content": [
-                "Pixelate images and combine multiple effects."
-            ],
-            "tags": [
-                "images"
-            ],
-            "url": "http://thepixelator.com"
+            "url": "https://easings.net"
         },
         {
             "title": "CSS3Please",
@@ -598,7 +463,7 @@
             "tags": [
                 "mathematics"
             ],
-            "url": "http://www.numerics.info"
+            "url": "https://www.numerics.info/"
         },
         {
             "title": "Time.is",
@@ -609,7 +474,7 @@
             "tags": [
                 "dateAndTime"
             ],
-            "url": "http://time.is"
+            "url": "https://time.is/"
         },
         {
             "title": "MF Animated Gif",
@@ -623,28 +488,6 @@
             "url": "http://mothereffinganimatedgif.com"
         },
         {
-            "title": "UI Snippets",
-            "image": "HTML5_snippets.png",
-            "content": [
-                "A collection of free, coded HTML5/CSS user interface snippets."
-            ],
-            "tags": [
-                "reference"
-            ],
-            "url": "http://www.webinterfacelab.com"
-        },
-        {
-            "title": "OneQstn",
-            "image": "oneqstn.png",
-            "content": [
-                "Quickly set up one-question surveys."
-            ],
-            "tags": [
-                "misc"
-            ],
-            "url": "http://www.oneqstn.com"
-        },
-        {
             "title": "Freepik",
             "image": "freepik.png",
             "content": [
@@ -653,7 +496,7 @@
             "tags": [
                 "search"
             ],
-            "url": "http://www.freepik.com"
+            "url": "https://www.freepik.com"
         },
         {
             "title": "Pingdom",
@@ -664,7 +507,7 @@
             "tags": [
                 "webPerformance"
             ],
-            "url": "http://tools.pingdom.com"
+            "url": "https://tools.pingdom.com"
         },
         {
             "title": "ColorSchemeDesigner",
@@ -675,7 +518,7 @@
             "tags": [
                 "colours"
             ],
-            "url": "http://colorschemedesigner.com"
+            "url": "http://paletton.com/"
         },
         {
             "title": "Bear CSS",
@@ -698,7 +541,7 @@
             "tags": [
                 "colours"
             ],
-            "url": "http://www.colorhexa.com"
+            "url": "https://www.colorhexa.com/"
         },
         {
             "title": "CSS Warp",
@@ -710,7 +553,7 @@
                 "css",
                 "typography"
             ],
-            "url": "http://csswarp.eleqtriq.com"
+            "url": "https://csswarp.eleqtriq.com/"
         },
         {
             "title": "Initializr",
@@ -721,18 +564,7 @@
             "tags": [
                 "starterKits"
             ],
-            "url": "http://www.initializr.com"
-        },
-        {
-            "title": "Snipt",
-            "image": "snipt.png",
-            "content": [
-                "A repository of public and private code snippets."
-            ],
-            "tags": [
-                "reference"
-            ],
-            "url": "https://snipt.net"
+            "url": "https://www.initializr.com"
         },
         {
             "title": "Fontello",
@@ -754,18 +586,7 @@
             "tags": [
                 "typography"
             ],
-            "url": "http://wordmark.it"
-        },
-        {
-            "title": "Screenqueri.es",
-            "image": "screenqueries.png",
-            "content": [
-                "View a site in multiple sizes, even including a mobile UI overlay."
-            ],
-            "tags": [
-                "responsiveDesign"
-            ],
-            "url": "http://screenqueri.es"
+            "url": "https://wordmark.it"
         },
         {
             "title": "Gridulator",
@@ -779,28 +600,6 @@
             "url": "http://gridulator.com"
         },
         {
-            "title": "Minute Bill",
-            "image": "minutebill.png",
-            "content": [
-                "Create invoices instantly, without even needing to sign up."
-            ],
-            "tags": [
-                "misc"
-            ],
-            "url": "http://www.minutebill.com"
-        },
-        {
-            "title": "Icon Finder",
-            "image": "iconfinder.png",
-            "content": [
-                "Search through more than 150,000 free icons."
-            ],
-            "tags": [
-                "icons"
-            ],
-            "url": "http://www.iconfinder.com"
-        },
-        {
             "title": "Worldtime Buddy",
             "image": "worldtimebuddy.png",
             "content": [
@@ -809,10 +608,10 @@
             "tags": [
                 "dateAndTime"
             ],
-            "url": "http://www.worldtimebuddy.com"
+            "url": "https://www.worldtimebuddy.com/"
         },
         {
-            "title": "When Can I Use",
+            "title": "Can I Use",
             "image": "caniuse.png",
             "content": [
                 "Handy charts showing which features are compatible with which browser."
@@ -822,7 +621,7 @@
                 "markup",
                 "reference"
             ],
-            "url": "http://caniuse.com"
+            "url": "https://caniuse.com"
         },
         {
             "title": "RegExr",
@@ -833,19 +632,7 @@
             "tags": [
                 "regex"
             ],
-            "url": "http://gskinner.com/RegExr"
-        },
-        {
-            "title": "Nice Entity",
-            "image": "nice-entity.png",
-            "content": [
-                "A nice HTML entities (special characters) reference"
-            ],
-            "tags": [
-                "reference",
-                "unicode"
-            ],
-            "url": "http://nice-entity.com"
+            "url": "https://regexr.com/"
         },
         {
             "title": "Regexpal",
@@ -856,7 +643,7 @@
             "tags": [
                 "regex"
             ],
-            "url": "http://regexpal.com"
+            "url": "https://www.regexpal.com/"
         },
         {
             "title": "CSS3 Generator",
@@ -878,7 +665,7 @@
             "tags": [
                 "patterns"
             ],
-            "url": "http://patternizer.com"
+            "url": "https://patternizer.com"
         },
         {
             "title": "LoremPixel",
@@ -890,7 +677,7 @@
                 "images",
                 "loremIpsum"
             ],
-            "url": "http://lorempixel.com"
+            "url": "http://lorempixel.com/"
         },
         {
             "title": "JPEGMini",
@@ -901,7 +688,7 @@
             "tags": [
                 "images"
             ],
-            "url": "http://www.jpegmini.com/main"
+            "url": "https://www.jpegmini.com/"
         },
         {
             "title": "PunyPNG",
@@ -945,7 +732,7 @@
             "tags": [
                 "icons"
             ],
-            "url": "http://keyamoon.com/icomoon/app"
+            "url": "https://icomoon.io/app/#/select"
         },
         {
             "title": "Pttrns",
@@ -956,18 +743,7 @@
             "tags": [
                 "reference"
             ],
-            "url": "http://pttrns.com"
-        },
-        {
-            "title": "ScriptSRC",
-            "image": "scriptsrc.png",
-            "content": [
-                "Get embed URLs for the most common Javascript libraries."
-            ],
-            "tags": [
-                "javascript"
-            ],
-            "url": "http://scriptsrc.net"
+            "url": "https://pttrns.com/"
         },
         {
             "title": "Rubular",
@@ -978,7 +754,7 @@
             "tags": [
                 "regex"
             ],
-            "url": "http://rubular.com"
+            "url": "https://rubular.com/"
         },
         {
             "title": "Mobile UI Patterns",
@@ -989,7 +765,7 @@
             "tags": [
                 "reference"
             ],
-            "url": "http://mobile-patterns.com"
+            "url": "https://mobile-patterns.com/"
         },
         {
             "title": "HTML5 Please",
@@ -1001,7 +777,7 @@
                 "css",
                 "markup"
             ],
-            "url": "http://html5please.com"
+            "url": "https://html5please.com/"
         },
         {
             "title": "AjaxLoad.info",
@@ -1026,7 +802,7 @@
             "url": "http://colllor.com"
         },
         {
-            "title": "CSSEaser",
+            "title": "Ceaser",
             "image": "ceaser.png",
             "content": [
                 "Advanced CSS easing animation tool."
@@ -1035,7 +811,7 @@
                 "animation",
                 "css"
             ],
-            "url": "http://matthewlein.com/ceaser"
+            "url": "https://matthewlein.com/tools/ceaser"
         },
         {
             "title": "The Noun Project",
@@ -1046,19 +822,7 @@
             "tags": [
                 "icons"
             ],
-            "url": "http://thenounproject.com"
-        },
-        {
-            "title": "CSS Selectors",
-            "image": "css-selectors.png",
-            "content": [
-                "Brush up on your CSS selectors with live examples."
-            ],
-            "tags": [
-                "css",
-                "reference"
-            ],
-            "url": "http://twostepmedia.co.uk/cssselectors"
+            "url": "https://thenounproject.com/"
         },
         {
             "title": "ShapeCatcher",
@@ -1072,7 +836,7 @@
             "url": "http://shapecatcher.com"
         },
         {
-            "title": "Placehold.it",
+            "title": "Placeholder.com",
             "image": "placeholdit.png",
             "content": [
                 "Generate placeholder images just with an URL."
@@ -1080,7 +844,7 @@
             "tags": [
                 "images"
             ],
-            "url": "http://placehold.it"
+            "url": "https://placeholder.com/"
         },
         {
             "title": "STRFTime",
@@ -1092,17 +856,6 @@
                 "dateAndTime"
             ],
             "url": "http://strftime.net"
-        },
-        {
-            "title": "Pictaculous",
-            "image": "pictaculous.png",
-            "content": [
-                "Generate a color palette from any image."
-            ],
-            "tags": [
-                "colours"
-            ],
-            "url": "http://www.pictaculous.com"
         },
         {
             "title": "SpriteCow",
@@ -1125,7 +878,7 @@
             "tags": [
                 "dateAndTime"
             ],
-            "url": "http://everytimezone.com"
+            "url": "https://everytimezone.com/"
         },
         {
             "title": "Support Details",
@@ -1136,52 +889,7 @@
             "tags": [
                 "misc"
             ],
-            "url": "http://supportdetails.com"
-        },
-        {
-            "title": "GuideGuide",
-            "image": "guideguide1.png",
-            "content": [
-                "Easily generate grids and guides in Photoshop."
-            ],
-            "tags": [
-                "grids",
-                "photoshop"
-            ],
-            "url": "http://guideguide.me"
-        },
-        {
-            "title": "Pattern Tap",
-            "image": "patterntap.png",
-            "content": [
-                "Huge design inspiration gallery organized by tags."
-            ],
-            "tags": [
-                "reference"
-            ],
-            "url": "http://patterntap.com"
-        },
-        {
-            "title": "Mocku.ps",
-            "image": "mockups.png",
-            "content": [
-                "Upload and share design mockups, and give them a nice backdrop."
-            ],
-            "tags": [
-                "images"
-            ],
-            "url": "http://mocku.ps"
-        },
-        {
-            "title": "DocHub",
-            "image": "dochub.png",
-            "content": [
-                "Lightning-fast documentation for CSS, JS, PHP, etc."
-            ],
-            "tags": [
-                "reference"
-            ],
-            "url": "http://dochub.io"
+            "url": "https://supportdetails.com/"
         },
         {
             "title": "0 to 255",
@@ -1192,18 +900,7 @@
             "tags": [
                 "colours"
             ],
-            "url": "http://0to255.com"
-        },
-        {
-            "title": "Bliss Control",
-            "image": "blisscontrol.png",
-            "content": [
-                "Get quick access to URLs for various common social network actions."
-            ],
-            "tags": [
-                "misc"
-            ],
-            "url": "http://blisscontrol.com"
+            "url": "https://www.0to255.com/"
         },
         {
             "title": "BuiltWith",
@@ -1214,18 +911,7 @@
             "tags": [
                 "misc"
             ],
-            "url": "http://builtwith.com"
-        },
-        {
-            "title": "Is It Old?",
-            "image": "isitold.png",
-            "content": [
-                "Find out how much a link has been tweeted before sharing it."
-            ],
-            "tags": [
-                "misc"
-            ],
-            "url": "http://isitold.com"
+            "url": "https://builtwith.com/"
         },
         {
             "title": "RegExp Generator",
@@ -1258,19 +944,7 @@
             "tags": [
                 "patterns"
             ],
-            "url": "http://subtlepatterns.com"
-        },
-        {
-            "title": "Responsive Test",
-            "image": "responsive1.png",
-            "content": [
-                "A beautiful bookmarklet to test your designs at multiple sizes."
-            ],
-            "tags": [
-                "bookmarklets",
-                "responsiveDesign"
-            ],
-            "url": "http://responsive.victorcoulon.fr"
+            "url": "https://www.toptal.com/designers/subtlepatterns/"
         },
         {
             "title": "Down For Everyone",
@@ -1281,7 +955,7 @@
             "tags": [
                 "misc"
             ],
-            "url": "http://www.isup.me"
+            "url": "https://downforeveryoneorjustme.com/"
         },
         {
             "title": "Favicon Generator",
@@ -1292,18 +966,7 @@
             "tags": [
                 "icons"
             ],
-            "url": "http://www.favicon.cc"
-        },
-        {
-            "title": "Ribbon Builder",
-            "image": "ribbon.png",
-            "content": [
-                "Build a fancy ribbon with nothing but CSS."
-            ],
-            "tags": [
-                "css"
-            ],
-            "url": "http://www.uiparade.com/wp-content/themes/artiste/live-tools"
+            "url": "https://www.favicon.cc/"
         },
         {
             "title": "Dom Monster",
@@ -1318,18 +981,6 @@
             "url": "http://mir.aculo.us/dom-monster"
         },
         {
-            "title": "FFFFallback",
-            "image": "ffffallback.png",
-            "content": [
-                "Quickly compare multiple fallback font choices."
-            ],
-            "tags": [
-                "css",
-                "typography"
-            ],
-            "url": "http://ffffallback.com"
-        },
-        {
             "title": "Cubic-Bezier",
             "image": "cubic-bezier.png",
             "content": [
@@ -1339,7 +990,7 @@
                 "animation",
                 "css"
             ],
-            "url": "http://cubic-bezier.com"
+            "url": "https://cubic-bezier.com"
         },
         {
             "title": "Gradient Generator",
@@ -1350,18 +1001,7 @@
             "tags": [
                 "css"
             ],
-            "url": "http://www.colorzilla.com/gradient-editor"
-        },
-        {
-            "title": "Markup.io",
-            "image": "markupio.png",
-            "content": [
-                "Draw things right there on a site, then share the result."
-            ],
-            "tags": [
-                "misc"
-            ],
-            "url": "http://markup.io"
+            "url": "https://www.colorzilla.com/gradient-editor"
         },
         {
             "title": "BrowserUI",
@@ -1375,17 +1015,6 @@
             "url": "http://www.browserui.com"
         },
         {
-            "title": "SpaceIpsum",
-            "image": "spaceipsum.png",
-            "content": [
-                "Inspiring, space-related filler text instead of boring latin."
-            ],
-            "tags": [
-                "loremIpsum"
-            ],
-            "url": "http://spaceipsum.com"
-        },
-        {
             "title": "WhatFont",
             "image": "whatfont.png",
             "content": [
@@ -1394,19 +1023,7 @@
             "tags": [
                 "typography"
             ],
-            "url": "http://chengyinliu.com"
-        },
-        {
-            "title": "Gridpak",
-            "image": "gridpak.png",
-            "content": [
-                "A responsive grid generator."
-            ],
-            "tags": [
-                "css",
-                "grids"
-            ],
-            "url": "http://gridpak.com"
+            "url": "http://www.chengyinliu.com/whatfont.html"
         },
         {
             "title": "Layer Styles",
@@ -1428,7 +1045,7 @@
             "tags": [
                 "javascript"
             ],
-            "url": "http://www.jshint.com"
+            "url": "https://jshint.com/"
         },
         {
             "title": "Dabblet",
@@ -1444,29 +1061,6 @@
             "url": "http://dabblet.com"
         },
         {
-            "title": "DropMocks",
-            "image": "dropmocks.png",
-            "content": [
-                "DropMocks lets you upload images and create a gallery without even having to register."
-            ],
-            "tags": [
-                "images"
-            ],
-            "url": "http://www.dropmocks.com"
-        },
-        {
-            "title": "Readability",
-            "image": "readability.png",
-            "content": [
-                "This bookmarklet automagically strips the current page of its layout to make it easier to read."
-            ],
-            "tags": [
-                "bookmarklets",
-                "typography"
-            ],
-            "url": "http://www.readability.com"
-        },
-        {
             "title": "JSFiddle",
             "image": "jsfiddle.png",
             "content": [
@@ -1477,7 +1071,7 @@
                 "editors",
                 "javascript"
             ],
-            "url": "http://jsfiddle.net"
+            "url": "https://jsfiddle.net/"
         },
         {
             "title": "Patternify",
@@ -1514,29 +1108,6 @@
             "url": "http://somadesign.ca/projects/fontfriend"
         },
         {
-            "title": "Procssor",
-            "image": "procssor.png",
-            "content": [
-                "Prettify and clean up your CSS code."
-            ],
-            "tags": [
-                "css"
-            ],
-            "url": "http://procssor.com"
-        },
-        {
-            "title": "Copy Paste Character",
-            "image": "copypaste.png",
-            "content": [
-                "A nice tool to browse and copy various Unicode characters."
-            ],
-            "tags": [
-                "icons",
-                "unicode"
-            ],
-            "url": "http://copypastecharacter.com"
-        },
-        {
             "title": "Snippi",
             "image": "snippi.png",
             "content": [
@@ -1546,18 +1117,6 @@
                 "editors"
             ],
             "url": "http://snippi.com"
-        },
-        {
-            "title": "Pea.rs",
-            "image": "pears.png",
-            "content": [
-                "Common patterns of markup and style for various elements such as tables, lists, etc."
-            ],
-            "tags": [
-                "css",
-                "markup"
-            ],
-            "url": "http://pea.rs"
         },
         {
             "title": "CSS Arrow Please",
