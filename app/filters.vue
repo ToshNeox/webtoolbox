@@ -5,8 +5,8 @@
 
             <div class="buttons">
                 <filter-item
-                    v-for="filter in filters"
-                    v-bind:key="filter.key"
+                    v-for="(filter, index) in filters"
+                    v-bind:key="index"
                     :filter-data="filter"
                     :any-selected="anySelected"
                     @on-select="selectFilter">

@@ -14,8 +14,8 @@
                 <div class="columns is-multiline">
                     <div
                         class="column is-one-quarter"
-                        v-for="tool in getTools"
-                        v-bind:key="tool.title">
+                        v-for="(tool, index) in getTools"
+                        v-bind:key="index">
                         <tool :tool-data="tool"></tool>
                     </div>
                 </div>
