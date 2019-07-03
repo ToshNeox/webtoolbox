@@ -6,3 +6,21 @@ $family-sans-serif: "Source Sans Pro", BlinkMacSystemFont, -apple-system, "Segoe
 
 /* Bulma*/
 @import "~bulma/bulma";
+
+/* Global classes */
+.emoji {
+    font-style: normal;
+}
+
+
+/* Page */
+#pageTitle {
+    padding-right: 2rem;
+}
+
+/* Footer */
+footer .container {
+    color: #aaa;
+    padding: 2rem 1rem;
+    font-style: italic;
+}
