@@ -3,7 +3,7 @@
         <div class="card-image">
             <figure class="image">
                 <a :href="toolData.url">
-                    <img :src="imageUrl" :alt="toolData.title" :title="toolData.title">
+                    <img :src="imageUrl" :alt="toolData.title" :title="toolData.title" class="toolImage">
                 </a>
             </figure>
         </div>
@@ -58,6 +58,11 @@
     .card {
         .media, .tags {
             margin-bottom: 0;
+        }
+
+        .toolImage {
+            min-width: 300px;
+            min-height: 180px;
         }
     }
 </style>
