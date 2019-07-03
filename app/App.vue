@@ -1,14 +1,12 @@
 <template>
     <article>
         <!-- Filters -->
-        <section>
-            <filters @filters-updated="filtersUpdated"></filters>
-        </section>
+        <filters @filters-updated="filtersUpdated"></filters>
 
         <!-- Tools -->
-        <section>
+        <section class="section">
             <div class="container">
-                <h2>Tools</h2>
+                <h3 class="title is-3">Tools</h3>
 
                 <!-- Iterate over visible tools -->
                 <div class="columns is-multiline">
@@ -86,5 +84,8 @@
     });
 </script>
 
-<style lang="scss" scoped>
+<style lang="scss">
+    section.section:not(.is-medium):not(is-large) {
+        padding: 1.5rem;
+    }
 </style>

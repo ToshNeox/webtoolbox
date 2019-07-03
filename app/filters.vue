@@ -1,7 +1,7 @@
 <template>
     <section class="section">
         <div class="container">
-            <h2>Filters</h2>
+            <h3 class="title is-3">Filters</h3>
 
             <div class="buttons">
                 <filter-item
