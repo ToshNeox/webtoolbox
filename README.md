@@ -9,7 +9,7 @@ Please see [contributing.md](https://github.com/ToshNeox/webtoolbox/blob/master/
 ## Developing locally
 The application is developed and built for production using the amazing [Parcel bundler](https://github.com/parcel-bundler/parcel).
 
-Just clone the project locally, install dependencies with `npm i` and run `parcel index.html`.
+Just clone the project locally, install dependencies with `npm i` and run `npm run serve`.
 
 Parcel will build the project and create a local development server at `http://localhost:1234` (if that port is available.)
 
@@ -20,7 +20,7 @@ This branch is a sub-tree of the master branch, using files from the `dist` fold
 
 To update the branch:
 
-- Build the project using `parcel build index.html --public-url .`
+- Build the project using `npm run build`
 - Commit the new site contents
 - Update the branch using `git subtree push --prefix dist origin gh-pages`
 

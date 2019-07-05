@@ -4,7 +4,8 @@
   "description": "A collection of useful tools and resources for developers",
   "main": "index.html",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "serve": "parcel index.html images/*",
+    "build": "parcel build index.html images/* --public-url ."
   },
   "repository": {
     "type": "git",
