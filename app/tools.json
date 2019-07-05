@@ -1,6 +1,28 @@
 {
     "tools": [
         {
+            "title": "StackBlitz",
+            "image": "stackblitz.png",
+            "content": [
+                "Create, edit and deploy fullstack apps in the browser."
+            ],
+            "tags": [
+                "editors", "javascript"
+            ],
+            "url": "https://stackblitz.com/"
+        },
+        {
+            "title": "Awesome",
+            "image": "awesome.png",
+            "content": [
+                "An utterly awesome collection of useful guides and resources."
+            ],
+            "tags": [
+                "reference", "misc"
+            ],
+            "url": "https://github.com/sindresorhus/awesome"
+        },
+        {
             "title": "Mobile Input Types",
             "image": "mobileinputtypes.png",
             "content": [
