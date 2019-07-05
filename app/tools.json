@@ -1,6 +1,17 @@
 {
     "tools": [
         {
+            "title": "htmlreference.io",
+            "image": "htmlreferenceio.png",
+            "content": [
+                "A complete, easy guide to all HTML elements and attributes."
+            ],
+            "tags": [
+                "reference"
+            ],
+            "url": "https://htmlreference.io/"
+        },
+        {
             "title": "JSON Editor",
             "image": "jsoneditor.png",
             "content": [
