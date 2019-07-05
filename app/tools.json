@@ -1,6 +1,17 @@
 {
     "tools": [
         {
+            "title": "Pixlr X",
+            "image": "pixlrx.png",
+            "content": [
+                "Surprisingly powerful online photo editor featuring the most popular tools and effects."
+            ],
+            "tags": [
+                "images", "editors"
+            ],
+            "url": "https://pixlr.com/x/"
+        },
+        {
             "title": "cssreference.io",
             "image": "cssreferenceio.png",
             "content": [
