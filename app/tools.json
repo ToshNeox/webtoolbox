@@ -1,6 +1,17 @@
 {
     "tools": [
         {
+            "title": "cssreference.io",
+            "image": "cssreferenceio.png",
+            "content": [
+                "A complete, visual guide to the most popular CSS properties."
+            ],
+            "tags": [
+                "reference", "css"
+            ],
+            "url": "https://cssreference.io/"
+        },
+        {
             "title": "htmlreference.io",
             "image": "htmlreferenceio.png",
             "content": [
