@@ -1,6 +1,17 @@
 {
     "tools": [
         {
+            "title": "Google Fonts",
+            "image": "googleFonts.png",
+            "content": [
+                "Explore hundreds of free fonts. Includes webite link tag, @import, and download formats."
+            ],
+            "tags": [
+                "typography"
+            ],
+            "url": "https://fonts.google.com/"
+        },
+        {
             "title": "Pixlr X",
             "image": "pixlrx.png",
             "content": [
