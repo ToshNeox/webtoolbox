@@ -1,6 +1,17 @@
 {
     "tools": [
         {
+            "title": "Mobile Input Types",
+            "image": "mobileinputtypes.png",
+            "content": [
+                "Easy guide to making the best use of HTML input types on mobile sites."
+            ],
+            "tags": [
+                "reference", "responsiveDesign"
+            ],
+            "url": "http://mobileinputtypes.com/"
+        },
+        {
             "title": "Google Fonts",
             "image": "googleFonts.png",
             "content": [
