@@ -19,6 +19,9 @@ $family-sans-serif: "Source Sans Pro", BlinkMacSystemFont, -apple-system, "Segoe
 #pageTitle {
     padding-right: 2rem;
 }
+.card-content {
+    min-height: 12rem;
+}
 
 /* Footer */
 footer .container {
