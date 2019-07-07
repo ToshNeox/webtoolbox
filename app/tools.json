@@ -1,6 +1,17 @@
 {
     "tools": [
         {
+            "title": "Carbon",
+            "image": "carbon.png",
+            "content": [
+                "Create beautiful images of your source code, complete with formatting and themes."
+            ],
+            "tags": [
+                "misc"
+            ],
+            "url": "https://carbon.now.sh/"
+        },
+        {
             "title": "StackBlitz",
             "image": "stackblitz.png",
             "content": [
