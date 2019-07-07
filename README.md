@@ -22,6 +22,6 @@ To update the branch:
 
 - Build the project using `npm run build`
 - Commit the new site contents
-- Update the branch using `git subtree push --prefix dist origin gh-pages`
+- Update the branch using `npm run updatepages`
 
 The site should update as soon as GitHub Pages deploys from the new code.
