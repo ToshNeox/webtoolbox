@@ -20,4 +20,4 @@ module.exports={tools:[{title:"Carbon",image:"carbon.png",content:["Create beaut
 },{"vue":"4673","./filters.vue":"NXAw","./tool.vue":"bCaW","./tools.json":"+Qny"}],"Focm":[function(require,module,exports) {
 "use strict";var e=r(require("vue")),u=r(require("./app/App.vue"));function r(e){return e&&e.__esModule?e:{default:e}}new e.default(u.default).$mount("#app");
 },{"vue":"4673","./app/App.vue":"pD7X"}]},{},["Focm"], null)
-//# sourceMappingURL=webtoolbox.632cbfe6.js.map
+//# sourceMappingURL=webtoolbox.50993fb0.js.map
