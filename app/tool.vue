@@ -61,7 +61,6 @@
         }
 
         .toolImage {
-            min-width: 300px;
             min-height: 180px;
         }
     }
