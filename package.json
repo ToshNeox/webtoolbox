@@ -19,16 +19,16 @@
   },
   "homepage": "https://github.com/ToshNeox/webtoolbox#readme",
   "dependencies": {
-    "bulma": "^0.7.5",
-    "vue": "^2.6.10",
-    "vue-hot-reload-api": "^2.3.3"
+    "bulma": "^0.8.0",
+    "vue": "^2.6.11",
+    "vue-hot-reload-api": "^2.3.4"
   },
   "devDependencies": {
-    "@vue/component-compiler-utils": "^3.0.0",
+    "@vue/component-compiler-utils": "^3.1.1",
     "cssnano": "^4.1.10",
-    "parcel": "^1.12.3",
-    "sass": "^1.22.3",
-    "typescript": "^3.5.2",
-    "vue-template-compiler": "^2.6.10"
+    "parcel": "^1.12.4",
+    "sass": "^1.26.3",
+    "typescript": "^3.8.3",
+    "vue-template-compiler": "^2.6.11"
   }
 }
