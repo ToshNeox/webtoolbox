@@ -6,7 +6,7 @@
   "scripts": {
     "serve": "parcel index.html images/*",
     "build": "parcel build index.html images/* --public-url . && cp CNAME dist/CNAME",
-    "updatepages": "git checkout master && git subtree split --prefix dist -b gh-pages && git push -f origin gh-pages:gh-pages && git branch -D gh-pages"
+    "updatepages": "git checkout -q master && git subtree split --prefix dist -b gh-pages && git push -f origin gh-pages:gh-pages && git branch -D gh-pages"
   },
   "repository": {
     "type": "git",
