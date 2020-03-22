@@ -1227,6 +1227,17 @@
                 "typography"
             ],
             "url": "http://type-a-file.com"
+        },
+        {
+            "title": "ExtendsClass",
+            "image": "extendsclass.png",
+            "content": [
+                "A simple regular expression builder, also includes a regex visualizer."
+            ],
+            "tags": [
+                "regex"
+            ],
+            "url": "https://extendsclass.com/regex-tester.html"
         }
     ]
 }
