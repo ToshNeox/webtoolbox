@@ -56,6 +56,9 @@
 
 <style lang="scss" scoped>
     .card {
+        max-width: 20rem;
+        margin: 0 auto;
+
         .media, .tags {
             margin-bottom: 0;
         }
