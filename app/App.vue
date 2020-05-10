@@ -24,6 +24,7 @@
 
 <script lang="ts">
     import Vue from 'vue';
+    import { shuffleArray } from './utils';
 
     import filters from './filters.vue';
     import tool from './tool.vue';
@@ -35,9 +36,11 @@
             'tool': tool
         },
         data() {
+            const shuffledTools = shuffleArray(toolData.tools);
+
             return {
                 filters: [],
-                tools: toolData.tools
+                tools: shuffledTools
             };
         },
         computed: {
