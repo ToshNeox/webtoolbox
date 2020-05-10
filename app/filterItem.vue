@@ -51,5 +51,9 @@
 </script>
 
 <style lang="scss" scoped>
-
+    .button {
+        -webkit-transition: background-color 150ms ease, color 150ms ease;
+        -o-transition: background-color 150ms ease, color 150ms ease;
+        transition: background-color 150ms ease, color 150ms ease;
+    }
 </style>
