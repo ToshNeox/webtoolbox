@@ -1,4 +1,6 @@
 # The Web Toolbox
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FToshNeox%2Fwebtoolbox.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FToshNeox%2Fwebtoolbox?ref=badge_shield)
+
 _A collection of handy, free-to-use tools for web developers, programmers and designers alike._
 
 Inspired by _thetoolbox.cc_ that went offline some time ago.
@@ -25,3 +27,7 @@ To update the branch:
 - Update the branch using `npm run updatepages`
 
 The site should update as soon as GitHub Pages deploys from the new code.
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FToshNeox%2Fwebtoolbox.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FToshNeox%2Fwebtoolbox?ref=badge_large)
