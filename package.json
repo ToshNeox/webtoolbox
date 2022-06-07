@@ -1,34 +1,25 @@
 {
-  "name": "webtoolbox",
-  "version": "1.0.0",
-  "description": "A collection of useful tools and resources for developers",
-  "main": "index.html",
+  "name": "thewebtoolbox",
+  "private": true,
+  "version": "0.0.0",
+  "main": "dist/my-element.es.js",
+  "exports": {
+    ".": "./dist/my-element.es.js"
+  },
+  "types": "types/my-element.d.ts",
+  "files": [
+    "dist",
+    "types"
+  ],
   "scripts": {
-    "serve": "parcel index.html images/*",
-    "build": "parcel build index.html images/* --public-url . && cp CNAME dist/CNAME",
-    "updatepages": "git checkout -q master && git subtree split --prefix dist -b gh-pages && git push -f origin gh-pages:gh-pages && git branch -D gh-pages"
+    "dev": "vite",
+    "build": "tsc && vite build"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/ToshNeox/webtoolbox.git"
-  },
-  "author": "ToshNeox",
-  "license": "GPL-3.0",
-  "bugs": {
-    "url": "https://github.com/ToshNeox/webtoolbox/issues"
-  },
-  "homepage": "https://github.com/ToshNeox/webtoolbox#readme",
   "dependencies": {
-    "bulma": "^0.8.2",
-    "vue": "^2.6.11",
-    "vue-hot-reload-api": "^2.3.4"
+    "lit": "^2.0.2"
   },
   "devDependencies": {
-    "@vue/component-compiler-utils": "^3.1.2",
-    "cssnano": "^4.1.10",
-    "parcel": "^1.12.4",
-    "sass": "^1.26.5",
-    "typescript": "^3.8.3",
-    "vue-template-compiler": "^2.6.11"
+    "vite": "^2.9.9",
+    "typescript": "^4.5.4"
   }
 }
