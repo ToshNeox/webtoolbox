@@ -26,7 +26,7 @@ export class WebToolboxAppComponent extends NoShadowRootLitElement {
 
             <h2 class="text-4xl mt-10">Filters</h2>
             <div class="my-5">
-                <tool-filters></tool-filters>
+                <tool-filters .tools="${tools}" .tags="${this._tags}"></tool-filters>
             </div>
 
             <h2 class="text-4xl mt-10">Tools</h2>
