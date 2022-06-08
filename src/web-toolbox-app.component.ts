@@ -11,12 +11,12 @@ import './index.scss';
 export class WebToolboxAppComponent extends NoShadowRootLitElement {
     public render(): HTMLTemplateResult {
         return html`<div class="container mx-auto">
-            The Web Toolbox
+            <h1 class="text-6xl">The Web Toolbox</h1>
 
-            <h1>Filters</h1>
+            <h2 class="text-4xl">Filters</h2>
             <tool-filters></tool-filters>
 
-            <h1>Tools</h1>
+            <h2 class="text-4xl">Tools</h2>
             <tool-results></tool-results>
         </div>`;
     }
