@@ -6,7 +6,9 @@ import './index.scss';
 @customElement('web-toolbox-app')
 export class WebToolboxAppComponent extends NoShadowRootLitElement {
     public render(): HTMLTemplateResult {
-        return html`<p>The Web Toolbox</p>`;
+        return html`<div class="container mx-auto">
+            The Web Toolbox
+        </div>`;
     }
 }
 
