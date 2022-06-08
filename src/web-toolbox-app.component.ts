@@ -14,7 +14,9 @@ export class WebToolboxAppComponent extends NoShadowRootLitElement {
             <h1 class="text-6xl mt-10">The Web Toolbox</h1>
 
             <h2 class="text-4xl mt-10">Filters</h2>
-            <tool-filters></tool-filters>
+            <div class="my-5">
+                <tool-filters></tool-filters>
+            </div>
 
             <h2 class="text-4xl mt-10">Tools</h2>
             <tool-results></tool-results>
