@@ -6,9 +6,20 @@ import { ToolFiltersComponent } from './components/tool-filters.component';
 import './components/tool-results.component';
 import { ToolResultsComponent } from './components/tool-results.component';
 import './index.scss';
+import { tools } from './tools';
 
 @customElement('web-toolbox-app')
 export class WebToolboxAppComponent extends NoShadowRootLitElement {
+    private _tags: Array<string> = [];
+
+    public connectedCallback(): void {
+        super.connectedCallback();
+
+        const allTags = tools.map((tool) => tool.tags).reduce((prev, cur) => [...prev, ...cur]);
+        const reducedTags = allTags.filter((tag, index) => allTags.indexOf(tag) === index);
+        this._tags = reducedTags;
+    }
+
     public render(): HTMLTemplateResult {
         return html`<div class="container mx-auto">
             <h1 class="text-6xl mt-10">The Web Toolbox</h1>
